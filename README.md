@@ -1,5 +1,5 @@
 # 💻 Eduarda Rodrigues Gnoatto
-### 🎓 Engenharia de Software | 8º Semestre | Estudante & Desenvolvedora
+### 🎓 Engenharia de Software | 6º Semestre | Estudante & Desenvolvedora
 
 > Apaixonada por tecnologia, lógica e transformar ideias em soluções funcionais.
 > Buscando oportunidade de estágio para crescer e contribuir com projetos reais! 🚀
