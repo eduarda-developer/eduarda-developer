@@ -1,5 +1,5 @@
 # 💻 Eduarda Rodrigues Gnoatto
-### 🎓 Engenharia de Software | 8º Semestre | Desenvolvedora & Criadora de Soluções com Propósito
+### 🎓 Engenharia de Software | 6º Semestre | Desenvolvedora & Criadora de Soluções com Propósito
 
 > Apaixonada por tecnologia e pelo poder que ela tem de **transformar vidas e incluir pessoas**. 
 > Buscando oportunidade de estágio para crescer e contribuir com projetos reais! 🚀
@@ -30,17 +30,15 @@
 
 ---
 
-## 📊 Estatísticas
-
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=eduarda-developer&show_icons=true&theme=radical)
-
 ---
 
 ## 📫 Contato
-
+    
 - 💼 **LinkedIn:** https://www.linkedin.com/in/eduarda-rodrigues-gnoatto-3a1575217
 - 📍 **Alvorada / Porto Alegre — RS**
-- 📩 **Aberta a oportunidades de estágio!**
+- 📩 **Aberta a oportunidades de estágio e junior!**
+- 📩 **rmariaeduarda023@gmail.com
+- 51 99429-3386**
 
 ---
 
