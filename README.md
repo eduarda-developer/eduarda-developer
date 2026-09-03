@@ -1,8 +1,17 @@
 # 💻 Eduarda Rodrigues Gnoatto
-### 🎓 Engenharia de Software | 6º Semestre | Estudante & Desenvolvedora
+### 🎓 Engenharia de Software | 8º Semestre | Desenvolvedora & Criadora de Soluções com Propósito
 
-> Apaixonada por tecnologia, lógica e transformar ideias em soluções funcionais.
+> Apaixonada por tecnologia e pelo poder que ela tem de **transformar vidas e incluir pessoas**. 
 > Buscando oportunidade de estágio para crescer e contribuir com projetos reais! 🚀
+
+---
+
+## 🚀 Projeto em Destaque — SEBRAE Supernova 2026
+
+### 💜 Conexão em Rotina — Apoio à Rotina e Comunicação para Adolescentes Neurodivergentes
+> Solução tecnológica que ajuda jovens neurodivergentes a organizarem sua rotina de forma visual e a expressarem suas emoções através de ícones, sem precisar de palavras. Envia notificações sutis ao responsável quando padrões de estresse se repetem — permitindo apoio antes da crise. **Não é sobre vigiar. É sobre conectar.** 💜
+
+🔗 [Em desenvolvimento]
 
 ---
 
@@ -15,19 +24,15 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Ferramentas & Controle de Versão:**
+**Ferramentas:**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-**Conceitos:**
-✅ Lógica de Programação ✅ Estrutura de Dados ✅ POO ✅ Banco de Dados ✅ APIs ✅ Metodologias Ágeis
-
 ---
 
+## 📊 Estatísticas
 
----
-
-
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=eduarda-developer&show_icons=true&theme=radical)
 
 ---
 
