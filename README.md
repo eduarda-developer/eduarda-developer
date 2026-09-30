@@ -42,4 +42,4 @@
 
 ---
 
-> 💡 *"A tecnologia é melhor quando une as pessoas."* — Vamos crescer juntos! 🚀
+> 💡 *"A tecnologia é melhor quando se une com propósitos."* — Vamos crescer juntos! 🚀
